@@ -112,7 +112,7 @@ fifo.push("Mouse")
 fifo.push("Printer")
 fifo.push("Monitor")
 document.writeln(fifo)
-document.writeln("FIFO:<br>");
+document.writeln("<br>FIFO:<br>");
 document.writeln(fifo.shift() + "<br>");
 document.writeln(fifo.shift() + "<br>");
 document.writeln(fifo.shift() + "<br>");
